@@ -38,8 +38,6 @@ class Home extends Component {
           <CardContent>
             <Typography type="body1" component="p">
               Welcome to the Mern Skeleton home page
-              <Link to="/users">Users</Link>
-              <Link to="/signup">Signup</Link>
             </Typography>
           </CardContent>
         </Card>
